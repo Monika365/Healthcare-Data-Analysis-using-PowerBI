@@ -11,9 +11,6 @@ Created an interactive dashboard using Power BI to reveal key trends in hospital
 
 1. Key Technologies and Skills
 2. Features
-3. Contributing
-4. License
-5. Contact
 
 <br />
 
@@ -87,24 +84,4 @@ The healthcare dataset includes features like Date, ID, Gender, Age, Race, Momen
 ![](https://github.com/gopiashokan/Healthcare-Data-Analysis-using-PowerBI/blob/main/Dashboard/Healthcare_Dashboard_2.JPG)
 
 <br />
-
-**Contributing**
-
-Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
-
-<br />
-
-**License**
-
-This project is licensed under the MIT License. Please review the LICENSE file for more details.
-
-<br />
-
-**Contact**
-
-📧 Email: gopiashokankiot@gmail.com 
-
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
-
-For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
